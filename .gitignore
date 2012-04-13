@@ -1,0 +1,4 @@
+_ReSharper.ServiceManager
+*.user
+ServiceManager/bin
+ServiceManager/obj
